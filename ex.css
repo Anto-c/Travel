@@ -1,0 +1,28 @@
+marquee{
+	font-size: 30px;
+	font-family: Cambria;
+	font-weight: bold;
+	color: red;
+	background-color: white;
+
+}
+
+p{
+	font-size: 20px;
+	font-family: Cambria;
+	font-weight: italic;
+	color:white;
+	background-color:black;
+
+}
+h1{
+	position: absolute;
+	top: 150px;
+	left: 310px;
+	font-family: Cambria;
+	color: black;
+	font-weight: bold ,italic ;
+	font-size: 50px;
+	text-align:  center;
+
+}
